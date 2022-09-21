@@ -1,0 +1,15 @@
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\bin\Debug\EDecrypt.exe.config
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\bin\Debug\EDecrypt.exe
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\bin\Debug\EDecrypt.pdb
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\MainWindow.g.cs
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\App.g.cs
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt_MarkupCompile.cache
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt_MarkupCompile.lref
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\MainWindow.baml
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt.g.resources
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt.Properties.Resources.resources
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt.csproj.GenerateResource.cache
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt.csproj.CoreCompileInputs.cache
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt.exe
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt.pdb
+D:\LamViec\ChuKySo\Source\EDecrypt\EDecrypt\obj\Debug\EDecrypt.csprojAssemblyReference.cache
